@@ -121,3 +121,17 @@ h2 {
     width: 50%;
     height: auto;
 }
+
+.btn {
+    text-decoration: none;
+    font-size: 36px;
+    color: white;
+    background-color: lightskyblue;
+    border-radius: 8px;
+    position: relative;
+    border: none;
+}
+
+.btn:hover {
+    color: lightgrey;
+}
